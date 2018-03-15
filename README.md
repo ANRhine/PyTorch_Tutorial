@@ -1,10 +1,12 @@
 This is a PyTorch Tutorial.
 
-All examples come from [Morvanzhou's tutorial page](https://morvanzhou.github.io/tutorials/).
+Some examples come from [Morvanzhou's tutorial page](https://morvanzhou.github.io/tutorials/).
+And other examples come from web.
 
 
 
-Dependencies:
+
+**Dependencies:**
 
 Python: 3.5
 
